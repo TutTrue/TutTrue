@@ -5,9 +5,9 @@
 <h3 align="center">A passionate CS student</h3>
 <p>I am a computer science student based in Cairo, Egypt, and passionate about web development. I'm always eager to learn more about the latest technologies and techniques that will help me create innovative and efficient solutions to real-world problems.
 
-Currently, I am enrolled in the [ALX](https://www.alxafrica.com/) software engineering program, where I am gaining practical experience in web development and honing my skills in coding, as a CS student, I'm always looking for new opportunities to enhance my skills and knowledge in web development. So far, I've gained experience in C, C#, JavaScript <!-- , ReactJS, Tailwind, -->and NodeJS. I enjoy working on web development projects, and I find coding to be both challenging and rewarding.
+Currently, I am enrolled in the [ALX](https://www.alxafrica.com/) software engineering program, where I am gaining practical experience in web development and honing my skills in coding, as a CS student, I'm always looking for new opportunities to enhance my skills and knowledge in web development. So far, I've gained experience in C and C#. <!-- , JavaScript , ReactJS, Tailwind, and NodeJS . I enjoy working on web development projects, and --> I find coding to be both challenging and rewarding.
 
-In my free time, I love to practice coding and explore new technologies related to my field. I am particularly interested in ReactJS and enjoy using it to build powerful web applications.
+In my free time, I love to practice coding and explore new technologies related to my field. I am particularly interested in ReactJS. <!-- and enjoy using it to build powerful web applications --> .
 
 If you're interested in connecting with me, you can find me on LinkedIn, Facebook, and Twitter using the links below. I'm always looking to meet new people, collaborate on exciting projects, and learn from others in the field.
 
