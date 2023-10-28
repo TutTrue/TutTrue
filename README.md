@@ -17,7 +17,7 @@ Let's connect and see how we can create something amazing together! -->
 
 - 💬 Ask me about **<!-- React, --> C, C#, Python, JS**
 
-- 📫 How to reach me **mahmoud.handy5113@gmail.com**
+- 📫 How to reach me **mahmoud.hamdy5113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
